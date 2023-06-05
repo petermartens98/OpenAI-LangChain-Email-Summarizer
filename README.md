@@ -1,5 +1,5 @@
 # OpenAI-LangChain-Email-Summarizer
-Python script utilizing the OpenAI API and LangChain to summarize emails. User inputs email, and function returns sender, role, tone, summary, and spam classification.
+Python script utilizing the OpenAI API and LangChain to summarize emails. User inputs email and subject, and function returns sender, role, tone, summary, and spam classification.
 
 ## Example Results: 
 ![image](https://github.com/petermartens98/OpenAI-LangChain-Email-Summarizer/assets/87671757/b2f87832-913e-4d1e-b0e7-50d753bc12cf)
